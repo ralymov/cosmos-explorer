@@ -37,6 +37,11 @@ function processMenu() {
   //   })
   // }
   chainMenus.push({
+    title: 'Website',
+    href: 'https://alymov.dev',
+    icon: 'GlobeIcon',
+  })
+  chainMenus.push({
     title: 'Github',
     href: 'https://github.com/ralymov',
     icon: 'GithubIcon',
