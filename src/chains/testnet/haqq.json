@@ -1,10 +1,10 @@
 {
     "chain_name": "haqq",
     "coingecko": "",
-    "api": ["https://rest.cosmos.testedge.haqq.network/"],
-    "rpc": ["https://rpc.tm.testedge.haqq.network/"],
+    "api": ["https://api.astra-nodes.team/rest/haqq"],
+    "rpc": ["https://api.astra-nodes.team/rpc/haqq"],
     "snapshot_provider": "",
-    "sdk_version": "0.45.3",
+    "sdk_version": "0.45.6",
     "coin_type": "60",
     "min_tx_fee": "3000000000000000",
     "addr_prefix": "haqq",
